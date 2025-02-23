@@ -40,7 +40,7 @@
     <p>Phone: +91 98765 43210</p>
 </section>
 
-<footer>&copy; 2025 Chartered Accountant Practice</footer>
+<footer>; 2025 Chartered Accountant Practice</footer>
 
 </body>
 </html>
